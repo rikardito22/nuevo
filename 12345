@@ -1139,3 +1139,70 @@ http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/72418
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/72419
 #EXTINF:-1 tvg-id="" tvg-name="ES : ODISEA" tvg-logo="http://sinlimitestv.com:8080/images/fpphSv9D89Diex6QMPN5vA4hThNYTpOJzy8NqRvkp9d4Zg9rj9Q0v14HM2kef2PRcrT5YRc8o8_8gN90LuyImP_VLTWRQKCvzJMSrX2zE_M.png" group-title="*** ESPAÑA ***",ES : ODISEA
 http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/69576
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: BANDAMAX TP MX" tvg-logo="https://i.ibb.co/47XQgBk/large-bandamax-png-ebbf214bdd5fe9e87614ee1be9da8403.png" group-title="*** MUSICA ***",MUSICA: BANDAMAX TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/532
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: MTV HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="*** MUSICA ***",MUSICA: MTV HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/12008
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: MTV Hits SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="*** MUSICA ***",MUSICA: MTV Hits SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16695
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: MTV LIVE HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/225px-MTV_Live.svg.png" group-title="*** MUSICA ***",MUSICA: MTV LIVE HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/12006
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: MTV SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="*** MUSICA ***",MUSICA: MTV SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16694
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: TELEHIT MUSICA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="*** MUSICA ***",MUSICA: TELEHIT MUSICA 
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/531
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: TELEHIT URBANO TP MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="*** MUSICA ***",MUSICA: TELEHIT URBANO TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/1520
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: VH1 Classic SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png" group-title="*** MUSICA ***",MUSICA: VH1 Classic SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16722
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: VH1 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="*** MUSICA ***",MUSICA: VH1 HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/12068
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA: VH1 SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="*** MUSICA ***",MUSICA: VH1 SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16721
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="NIÑOS: Baby TV DISH MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="*** NIÑOS  ***",NIÑOS: Baby TV DISH MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16632
+#EXTINF:-1 tvg-id="NIÑOS: BIT ME TP MX" tvg-name="NIÑOS: BIT ME TP MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="*** NIÑOS  ***",NIÑOS: BIT ME TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/8064
+#EXTINF:-1 tvg-id="CINEMA: TNT SD*" tvg-name="NIÑOS: Boomerang*" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/boomerang.9b80d70b.png" group-title="*** NIÑOS  ***",NIÑOS: Boomerang*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16633
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="NIÑOS: Cartoon Network SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Cartoon Network SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16638
+#EXTINF:-1 tvg-id="LAT*CARTOON NT HD" tvg-name="NIÑOS: CARTOON NT HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: CARTOON NT HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/11878
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS: CartoonNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: CartoonNetwork
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/40972
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS: Discovery Kids HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Discovery Kids HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/30794
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="NIÑOS: Discovery Kids SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Discovery Kids SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16650
+#EXTINF:-1 tvg-id="NIÑOS: DISNEY CHANNEL  MX" tvg-name="NIÑOS: DISNEY CHANNEL  MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: DISNEY CHANNEL  MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/430
+#EXTINF:-1 tvg-id="NIÑOS: NICK JR TP MX" tvg-name="NIÑOS: DISNEY JR  TP MX" tvg-logo="https://imgur.com/MM4PFPl.png" group-title="*** NIÑOS  ***",NIÑOS: DISNEY JR  TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/419
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="NIÑOS: Disney JR SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="*** NIÑOS  ***",NIÑOS: Disney JR SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16654
+#EXTINF:-1 tvg-id="Disney" tvg-name="NIÑOS: Disney SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Disney SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16653
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="NIÑOS: Disney XD SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1024px-Logo_Disney_XD.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Disney XD SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16655
+#EXTINF:-1 tvg-id="NIÑOS: DISNEY XD TP MX" tvg-name="NIÑOS: DISNEY XD TP MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="*** NIÑOS  ***",NIÑOS: DISNEY XD TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/431
+#EXTINF:-1 tvg-id="Nat Geo Kids" tvg-name="NIÑOS: Nat Geo Kids SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Nat Geo Kids SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16702
+#EXTINF:-1 tvg-id="LAT*Nick 2 HD" tvg-name="NIÑOS: Nick 2 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="*** NIÑOS  ***",NIÑOS: Nick 2 HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/12020
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="NIÑOS: Nick Jr SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="*** NIÑOS  ***",NIÑOS: Nick Jr SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16705
+#EXTINF:-1 tvg-id="NIÑOS: NICK JR TP MX" tvg-name="NIÑOS: NICK JR TP MX" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="*** NIÑOS  ***",NIÑOS: NICK JR TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/428
+#EXTINF:-1 tvg-id="LAT*Nick SIM HD" tvg-name="NIÑOS: Nick SIM HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/800px-Nick.svg.png" group-title="*** NIÑOS  ***",NIÑOS: Nick SIM HD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/12022
+#EXTINF:-1 tvg-id="NIÑOS: NICK TP MX" tvg-name="NIÑOS: NICK TP MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/800px-Nick.svg.png" group-title="*** NIÑOS  ***",NIÑOS: NICK TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/427
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NIÑOS: Nickelodeon SD*" tvg-logo="https://i.pinimg.com/originals/44/e1/e0/44e1e09062e621d0a49ab3cbd8ed06bd.png" group-title="*** NIÑOS  ***",NIÑOS: Nickelodeon SD*
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/16706
+#EXTINF:-1 tvg-id="NIÑOS: NICK 2 TP MX" tvg-name="NIÑOS: Nicktoons TP MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="*** NIÑOS  ***",NIÑOS: Nicktoons TP MX
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/416
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS: Tooncast" tvg-logo="" group-title="*** NIÑOS  ***",NIÑOS: Tooncast
+http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/64023
+
